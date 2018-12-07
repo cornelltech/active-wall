@@ -11,3 +11,6 @@ Naaman](https://people.jacobs.cornell.edu/mor/) at the Cornell
 Tech [Connected Experiences
 Laboratory](http://cx.jacobs.cornell.edu/). The work of the lab is generously supported by
 [OATH](https://www.oath.com/).
+
+The code here uses this library: [https://github.com/cornelltech/opencv-video-loops](https://github.com/cornelltech/opencv-video-loops).
+
